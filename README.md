@@ -1,16 +1,19 @@
 # 📦 EuroParcel
 
-**EuroParcel** is the European courier marketplace designed for fast, affordable, and reliable shipping across the EU. It helps individuals and small businesses compare courier prices, book deliveries, and track parcels—all from a single, user-friendly interface.
+Hi there, this is EuroParcel 👋  
+We're building an AI-first courier marketplace that helps people and businesses across Europe send parcels faster, cheaper, and easier.
 
-Launched as the international expansion of the Romanian platform eAWB.ro, EuroParcel integrates with top courier services like DHL, DPD, GLS and others. Built with a focus on automation, transparency, and cross-border flexibility, the platform aims to simplify logistics for everyone in Europe.
+Think of it as the future of shipping — compare options, book a delivery in minutes, and track everything from one place.
 
-EuroParcel runs on a scalable, API-driven infrastructure with AI-powered tools that streamline order handling, issue resolution, and customer communication.
+Born from years of logistics experience, EuroParcel is built to scale across the entire EU with a focus on automation, simplicity, and speed.
 
-**Website:** [europarcel.com](https://europarcel.com)
+🚀 Launching soon across Europe via [europarcel.com](https://europarcel.com)
 
-**Use case examples:**
-- Compare shipping prices from multiple couriers instantly
-- Book a shipment in under 2 minutes
-- Track deliveries across borders in real time
+📦 Designed for:
+- Individuals sending one-off shipments
+- Online sellers shipping cross-border
+- SMBs looking to save time and money
 
-Whether you’re sending one parcel or hundreds, EuroParcel is built to make logistics smarter and simpler.
+🤖 AI-powered, built for performance. No unnecessary forms. No hidden fees. Just smarter shipping.
+
+Join us as we simplify parcel delivery for everyone in Europe.
