@@ -1,4 +1,8 @@
-[![EuroParcel](https://raw.githubusercontent.com/europarcel/.github/main/profile/europarcel.png)](https://europarcel.com)
+<p align="center">
+  <a href="https://europarcel.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/europarcel/.github/main/profile/europarcel.png" alt="EuroParcel" />
+  </a>
+</p>
 
 # 📦 EuroParcel
 
