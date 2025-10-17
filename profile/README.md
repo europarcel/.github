@@ -1,4 +1,4 @@
-![EuroParcel](https://github.com/europarcel/.github/blob/trunk/profile/europarcel.png)
+![EuroParcel](https://raw.githubusercontent.com/europarcel/.github/main/profile/europarcel.png)
 
 # 📦 EuroParcel
 
