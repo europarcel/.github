@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/europarcel.png" alt="EuroParcel" width="600" />
+  <img src="europarcel.png" alt="EuroParcel" width="600" />
 </p>
 
 # 📦 EuroParcel
