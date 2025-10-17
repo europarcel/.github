@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile/europarcel.png" alt="EuroParcel" width="600" />
+</p>
+
 # 📦 EuroParcel
 
 Hi there, this is EuroParcel 👋  
