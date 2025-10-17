@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="europarcel.png" alt="EuroParcel" width="600" />
-</p>
+![EuroParcel](https://github.com/europarcel/.github/blob/trunk/profile/europarcel.png)
 
 # 📦 EuroParcel
 
